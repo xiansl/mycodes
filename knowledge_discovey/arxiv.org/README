@@ -1,0 +1,27 @@
+Data Source
+URL:arxiv.org
+Owner:Cornell University
+Type:Science
+Language:English
+Description: arxiv (archive) is a repository of electronic preprints approved for publication that consists of scientific papers in mathematics, physics, astronomy, electrical engineering, computer science, quantitative biology, statistics and quantitative finance.
+
+Userful resources: 
+ directory - arxiv.org
+ field new - https://arxiv.org/list/cs/new
+ field recent - https://arxiv.org/list/cs/recent
+ sub-field recent - https://arxiv.org/list/cs.AI/recent
+ past week - https://arxiv.org/list/cs.AI/pastweek?show=43
+ article page - https://arxiv.org/abs/1808.01876
+ pdf of article - https://arxiv.org/pdf/1808.01876
+ list of computer science paper in 2018 Jan - https://arxiv.org/list/cs/1801?show=2000, 
+                        next page: https://arxiv.org/list/cs/1801?skip=2000&show=2000
+
+Each article:
+ id (key)
+ title
+ author list
+ submit date
+ abstract
+ subject list
+ 
+
